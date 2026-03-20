@@ -1529,11 +1529,9 @@
 .text-logo{
 	font-size: 24px;
 	font-weight: 600;
-	color: #252525;
+	color: #ffffff;
 	font-family: 'Lato', sans-serif;
 	text-align: center;
-	line-height: 30px;
-	margin-bottom: 0;
 }
 
 @media(max-width:600px){
